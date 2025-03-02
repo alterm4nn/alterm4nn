@@ -33,5 +33,5 @@ When I’m not in **tech mode**, you can find me:
 
 ### 📫 Let's Connect!
 - **GitHub:** [@alterm4nn](https://github.com/alterm4nn)  
-- **LinkedIn:** [linkedin.com/in/evgeniinurminskii](https://www.linkedin.com/in/evgeniinurminskii/)  
+- **LinkedIn:** [linkedin.com/in/alterm4nn](https://www.linkedin.com/in/alterm4nn/)  
 - **Wine or Tech Talk?** Drop me a message! 🍷💻 
